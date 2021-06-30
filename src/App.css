@@ -1,0 +1,15 @@
+.button-container-div {
+   
+    height: 800px;
+    border: 1px solid #ff8899;
+    display: grid;
+}
+button {
+    background-color: crimson;
+    color: #fff;
+    border: 1px solid;
+    padding: 10px;
+ 
+    outline: none;
+    margin: auto;
+}
